@@ -1,0 +1,130 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            QW:0                   LISTENING
+  TCP    0.0.0.0:445            QW:0                   LISTENING
+  TCP    0.0.0.0:1433           QW:0                   LISTENING
+  TCP    0.0.0.0:2383           QW:0                   LISTENING
+  TCP    0.0.0.0:3050           QW:0                   LISTENING
+  TCP    0.0.0.0:5040           QW:0                   LISTENING
+  TCP    0.0.0.0:7680           QW:0                   LISTENING
+  TCP    0.0.0.0:8391           QW:0                   LISTENING
+  TCP    0.0.0.0:22352          QW:0                   LISTENING
+  TCP    0.0.0.0:49664          QW:0                   LISTENING
+  TCP    0.0.0.0:49665          QW:0                   LISTENING
+  TCP    0.0.0.0:49666          QW:0                   LISTENING
+  TCP    0.0.0.0:49667          QW:0                   LISTENING
+  TCP    0.0.0.0:49668          QW:0                   LISTENING
+  TCP    0.0.0.0:49669          QW:0                   LISTENING
+  TCP    0.0.0.0:49736          QW:0                   LISTENING
+  TCP    127.0.0.1:1434         QW:0                   LISTENING
+  TCP    127.0.0.1:5939         QW:0                   LISTENING
+  TCP    127.0.0.1:22350        QW:0                   LISTENING
+  TCP    127.0.0.1:22350        QW:50560               ESTABLISHED
+  TCP    127.0.0.1:49697        QW:49698               ESTABLISHED
+  TCP    127.0.0.1:49698        QW:49697               ESTABLISHED
+  TCP    127.0.0.1:49702        QW:49703               ESTABLISHED
+  TCP    127.0.0.1:49703        QW:49702               ESTABLISHED
+  TCP    127.0.0.1:49744        QW:49745               ESTABLISHED
+  TCP    127.0.0.1:49745        QW:49744               ESTABLISHED
+  TCP    127.0.0.1:50495        QW:50496               ESTABLISHED
+  TCP    127.0.0.1:50496        QW:50495               ESTABLISHED
+  TCP    127.0.0.1:50560        QW:22350               ESTABLISHED
+  TCP    127.0.0.1:50593        QW:50594               ESTABLISHED
+  TCP    127.0.0.1:50594        QW:50593               ESTABLISHED
+  TCP    192.168.20.4:139       QW:0                   LISTENING
+  TCP    192.168.20.4:9999      QW:0                   LISTENING
+  TCP    192.168.20.4:50490     42:https               ESTABLISHED
+  TCP    192.168.20.4:50522     20.199.120.151:https   ESTABLISHED
+  TCP    192.168.20.4:50544     77:https               ESTABLISHED
+  TCP    192.168.20.4:50586     227:https              ESTABLISHED
+  TCP    192.168.20.4:50588     227:https              ESTABLISHED
+  TCP    192.168.20.4:50601     40.117.96.136:https    TIME_WAIT
+  TCP    192.168.20.4:50630     13.107.5.91:https      TIME_WAIT
+  TCP    192.168.20.4:50631     93.184.220.29:http     TIME_WAIT
+  TCP    192.168.20.4:50636     a-0001:https           ESTABLISHED
+  TCP    192.168.20.4:50637     13.107.6.254:https     TIME_WAIT
+  TCP    192.168.20.4:50640     204.79.197.222:https   ESTABLISHED
+  TCP    192.168.20.4:50654     93.184.221.240:http    TIME_WAIT
+  TCP    192.168.20.4:50655     8.238.52.126:http      TIME_WAIT
+  TCP    192.168.20.4:50656     67.26.73.254:http      TIME_WAIT
+  TCP    192.168.20.4:50660     8.238.52.126:http      TIME_WAIT
+  TCP    192.168.20.4:50661     67.27.165.254:http     TIME_WAIT
+  TCP    192.168.20.4:50664     52.168.117.170:https   TIME_WAIT
+  TCP    192.168.20.4:50665     52.168.117.170:https   TIME_WAIT
+  TCP    192.168.20.4:50669     20.54.110.249:https    TIME_WAIT
+  TCP    192.168.20.4:50671     20.54.110.249:https    TIME_WAIT
+  TCP    192.168.20.4:50672     20.54.110.249:https    TIME_WAIT
+  TCP    192.168.20.4:50673     40.127.240.158:https   TIME_WAIT
+  TCP    192.168.20.4:50675     40.125.122.176:https   TIME_WAIT
+  TCP    192.168.20.4:50677     20.189.173.15:https    TIME_WAIT
+  TCP    192.168.20.4:50678     40.127.240.158:https   TIME_WAIT
+  TCP    192.168.20.4:50680     51.104.136.2:https     TIME_WAIT
+  TCP    192.168.20.4:50681     52.142.114.176:https   ESTABLISHED
+  TCP    192.168.20.4:50682     52.142.114.176:https   ESTABLISHED
+  TCP    192.168.20.4:50683     a23-47-209-59:https    ESTABLISHED
+  TCP    192.168.20.4:50686     40.125.122.151:https   TIME_WAIT
+  TCP    192.168.20.4:50687     51.104.136.2:https     TIME_WAIT
+  TCP    192.168.20.4:50688     201:https              TIME_WAIT
+  TCP    192.168.20.4:50689     123:https              TIME_WAIT
+  TCP    192.168.20.4:50690     93.184.220.29:http     TIME_WAIT
+  TCP    192.168.20.4:50691     93.184.220.29:http     TIME_WAIT
+  TCP    192.168.20.4:50695     40.126.31.98:https     TIME_WAIT
+  TCP    192.168.20.4:50696     104.208.16.90:https    TIME_WAIT
+  TCP    192.168.20.4:50700     152.199.19.161:https   ESTABLISHED
+  TCP    192.168.20.4:50701     20.140.147.203:https   ESTABLISHED
+  TCP    192.168.20.4:50702     152.199.19.161:https   ESTABLISHED
+  TCP    192.168.20.4:50704     104.208.16.90:https    TIME_WAIT
+  TCP    192.168.20.4:50708     13.107.42.18:https     TIME_WAIT
+  TCP    192.168.20.4:50709     13.107.42.18:https     TIME_WAIT
+  TCP    192.168.20.4:50716     13.107.6.254:https     ESTABLISHED
+  TCP    192.168.20.4:50718     13.89.179.10:https     TIME_WAIT
+  TCP    192.168.20.4:50719     52.168.117.170:https   TIME_WAIT
+  TCP    192.168.20.4:50731     227:https              ESTABLISHED
+  TCP    192.168.20.4:50732     227:https              ESTABLISHED
+  TCP    192.168.20.4:50734     20.42.65.89:https      TIME_WAIT
+  TCP    [::]:135               QW:0                   LISTENING
+  TCP    [::]:445               QW:0                   LISTENING
+  TCP    [::]:1433              QW:0                   LISTENING
+  TCP    [::]:2383              QW:0                   LISTENING
+  TCP    [::]:3050              QW:0                   LISTENING
+  TCP    [::]:7680              QW:0                   LISTENING
+  TCP    [::]:8391              QW:0                   LISTENING
+  TCP    [::]:22352             QW:0                   LISTENING
+  TCP    [::]:49664             QW:0                   LISTENING
+  TCP    [::]:49665             QW:0                   LISTENING
+  TCP    [::]:49666             QW:0                   LISTENING
+  TCP    [::]:49667             QW:0                   LISTENING
+  TCP    [::]:49668             QW:0                   LISTENING
+  TCP    [::]:49669             QW:0                   LISTENING
+  TCP    [::]:49736             QW:0                   LISTENING
+  TCP    [::1]:1434             QW:0                   LISTENING
+  TCP    [::1]:49670            QW:0                   LISTENING
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49153          *:*                    
+  UDP    0.0.0.0:49388          *:*                    
+  UDP    0.0.0.0:57372          *:*                    
+  UDP    0.0.0.0:61821          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49972        *:*                    
+  UDP    127.0.0.1:50249        *:*                    
+  UDP    192.168.20.4:137       *:*                    
+  UDP    192.168.20.4:138       *:*                    
+  UDP    192.168.20.4:1900      *:*                    
+  UDP    192.168.20.4:5353      *:*                    
+  UDP    192.168.20.4:49971     *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49154             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:49970            *:*                    
+  UDP    [fe80::8c09:53d8:2fd5:9f79%13]:1900  *:*                    
+  UDP    [fe80::8c09:53d8:2fd5:9f79%13]:49969  *:*                    
