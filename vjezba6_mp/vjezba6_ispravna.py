@@ -21,7 +21,7 @@ def threader():
 
 
 def main():
-    for x in range(port1, port2):
+    for x in range(port1, port2, ):
         thread = threading.Thread(target=threader)
         thread.daemon = True
         thread.start()
@@ -41,7 +41,7 @@ remoteServerIP = socket.gethostbyname(remoteServer)
 #port2 = int(raw_input("Upisi port2: "))
 
 port1 = 80
-port2 = 82
+port2 = 86
 
 # print(port1, port2)
 # print "Port {}:        Open".format(port2)
@@ -53,8 +53,12 @@ def tcp_scanner(port):
     try:
 
         result = sock.connect_ex((remoteServerIP, port))
+        socket.setdefaulttimeout(0.5)
         if result == 0:
-            print("Port {}:        Open".format(port))
+            print("Port {}:        Otvoren".format(port))
+
+        else:
+            print("Port {}:        Zatvoren".format(port))
             sock.close()
 
     except KeyboardInterrupt:
